@@ -19,6 +19,11 @@ GOOGLE_API_KEY=your-api-key
 docker run --env-file .env -p 8501:8501 brillyando/nawatech_case2:latest
 ```
 
+5. open browser and head to localhost
+
+```
+http://localhost:8501/
+```
 
 From github:
 
@@ -58,4 +63,10 @@ GOOGLE_API_KEY=your-api-key
 
 ```
 streamlit run app/main.py
+```
+
+7. open browser and head to localhost
+
+```
+http://localhost:8501/
 ```
