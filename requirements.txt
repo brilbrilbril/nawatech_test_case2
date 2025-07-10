@@ -1,0 +1,10 @@
+pydantic
+langchain
+langchain-community
+unstructured 
+openpyxl
+langchain-google-genai
+networkx[default]
+faiss-cpu
+streamlit
+tiktoken
